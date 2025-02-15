@@ -5,7 +5,7 @@
 <img src="https://i.imgur.com/eYKm1C0.png">
 
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/yuli.marin_)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=social&logo=instagram)](https://www.instagram.com/yuli.marin__?igsh=enczazEyanh2NXNy&utm_source=qr)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=social&logo=gmail)](mailto:yulimarin90@gmail.com)
 
 
